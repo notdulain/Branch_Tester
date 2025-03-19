@@ -15,6 +15,7 @@ public class Branch3 {
 public class branch4 {
     public static void main(String[] args) {
         System.out.println("Hello1111");
+        System.out.println("Hello2222");
 
         // dulain made this
         System.out.println("Laka Laka Laka");
