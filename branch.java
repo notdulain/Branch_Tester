@@ -26,5 +26,6 @@ public class branch4 {
         //Dilusha
         System.out.println("Hello");
         System.out.println("Merge");
+        //new
     }
 }
