@@ -30,5 +30,6 @@ public class branch4 {
         System.out.println("Hello");
         System.out.println("Merge");
         //new
+        //new
     }
 }
