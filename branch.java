@@ -17,9 +17,10 @@ public class branch4 {
         System.out.println("Hello1111");
 
         // dulain made this
+        // deweni comment eka
         System.out.println("Laka Laka Laka");
 
-        //lakdinu
+        // lakdinu
         System.out.println("connection awl");
         System.out.println("package expired"); 
         
