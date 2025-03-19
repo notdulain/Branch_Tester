@@ -27,3 +27,11 @@ public class branch4 {
         System.out.println("Hello");
     }
 }
+
+public class LetsGetThisBread {
+    private String bread;
+
+    public LetsGetThisBread(String bread) {
+        this.bread = bread;
+    }
+}
