@@ -23,6 +23,7 @@ public class branch4 {
         System.out.println("connection awl");
 
         //Dilusha
-        System.out.println("Hello");
+        System.out.println("Hello Dilusha");
+        System.out.println("Test branch");
     }
 }
