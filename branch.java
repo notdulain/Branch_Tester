@@ -17,12 +17,13 @@ public class branch4 {
         System.out.println("Hello1111");
 
         // dulain made this
+        // second comment
         System.out.println("Laka Laka Laka");
 
-        //lakdinu
+        // lakdinu
         System.out.println("connection awl");
 
-        //Dilusha
+        // Dilusha
         System.out.println("Hello");
     }
 }
