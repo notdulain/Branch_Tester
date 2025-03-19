@@ -35,3 +35,11 @@ public class branch4 {
         //new
     }
 }
+
+public class LetsGetThisBread {
+    private String bread;
+
+    public LetsGetThisBread(String bread) {
+        this.bread = bread;
+    }
+}
